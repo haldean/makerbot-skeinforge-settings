@@ -1,2 +1,23 @@
-Note that these settings are for the version of Skeinforge bundled
+F O R M A T
+These settings are for the version of Skeinforge bundled
 with ReplicatorG 0017.
+
+Commit messages are usually of the format:
+       F(feed rate) WT(width/thickness) L(layer height)
+
+_______________________________________________________________
+P R O F I L E S
+
+c u p c a k e - f a s t - h i g h r e s 
+
+This profile is currently best for printing low-detail,
+large-volume objects. The layer height is low and the feed
+rate is high. Walls and surfaces are water-tight. Holes,
+circles and towers currently are very poor.
+
+c u p c a k e - s l o w - l o r e s
+
+This profile is best for objects with significant
+complexity: holes are dealt with okay and towers are
+slightly blobby but not bad. Circles are excellent with
+this profile.
