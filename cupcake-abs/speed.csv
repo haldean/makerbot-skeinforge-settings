@@ -2,7 +2,7 @@ Format is tab separated preferences.
 Activate Speed:	True
 Bridge Feedrate Multiplier (ratio):	1.0
 Extrusion Diameter over Thickness (ratio):	1.0
-Feedrate (mm/s):	55
+Feedrate (mm/s):	60
 Open File to be Speeded	
 Do Not Add Flowrate	False
 Metric	False
@@ -12,5 +12,5 @@ Orbital Feedrate over Operating Feedrate (ratio):	1.0
 Perimeter Feedrate over Operating Feedrate (ratio):	1.0
 Perimeter Flowrate over Operating Flowrate (ratio):	1.0
 Support Flowrate over Operating Flowrate (ratio):	1.0
-Travel Feedrate (mm/s):	55
+Travel Feedrate (mm/s):	60
 windowPositionBehold Preferences	0+0
