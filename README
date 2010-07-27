@@ -1,6 +1,8 @@
 F O R M A T
 These settings are for the version of Skeinforge bundled
-with ReplicatorG 0017.
+with ReplicatorG 0017. All of my profiles use a feedrate
+of 255 PWM as my motor is broken and doesn't extrude at
+lower power settings.
 
 Commit messages are usually of the format:
        F(feed rate) WT(width/thickness) L(layer height)
